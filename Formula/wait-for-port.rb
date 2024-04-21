@@ -5,7 +5,6 @@ class WaitForPort < Formula
   sha256 "40dfe0323817b12e81eac55d41962cfa21e86b85ccd46a436f56d81aacc92d3a"
   license "Apache-2.0"
 
-  # depends_on "cmake" => :build
   uses_from_macos "nc"
 
   def install
