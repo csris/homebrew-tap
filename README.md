@@ -1,4 +1,4 @@
-# Csris Tap
+# csris Tap
 
 ## How do I install these formulae?
 
